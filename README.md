@@ -15,7 +15,7 @@
 - 目前还在不断的学习当中 💪 ...
 - <img src="https://img.shields.io/badge/hobby-%E6%99%AE%E9%80%9A%E7%9A%84%E7%8C%AB%E5%A5%B4%2C%20%E6%83%B3%E5%85%BB%E4%B8%80%E5%B1%8B%E5%AD%90%E7%8C%AB-pink" />
 
-<img width="50%" height="1">
+<img width="500" height="1">
 </td>
 <td width="100%">
 
@@ -33,7 +33,7 @@
 - <img src="https://img.shields.io/badge/system-winodws11-cyan" />
 - <img src="https://img.shields.io/badge/dev--tool-vscode-blue" />
 - <img src="https://img.shields.io/badge/vm-ubuntu20--server-orange" /> <img src="https://img.shields.io/badge/shell-zsh-cyan" />
-<img width="50%" height="1">
+<img width="500" height="1">
 </td>
 </tr>
 </table>
