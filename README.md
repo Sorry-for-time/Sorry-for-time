@@ -14,6 +14,7 @@
 - 现在的目标: 成为一名出色的前端开发工程师
 - 在读的书: <<javascript 高级程序设计>>~第四版~
 - 轻度速溶黑咖啡爱好者
+- 喜欢的歌曲 `Viva La Vida -- Coldplay`
 - 目前还在不断的学习当中 💪 ...
 - <img src="https://img.shields.io/badge/hobby-%E6%99%AE%E9%80%9A%E7%9A%84%E7%8C%AB%E5%A5%B4%2C%20%E6%83%B3%E5%85%BB%E4%B8%80%E5%B1%8B%E5%AD%90%E7%8C%AB-pink" />
 
